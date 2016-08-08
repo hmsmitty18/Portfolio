@@ -21,3 +21,16 @@ body{
 .navbar{
 
 }
+
+#fb{
+  position: fixed;
+  top: 53%;
+  margin-left: 50px;
+    
+}
+#vsco{
+  position: fixed;
+  top: 63%;
+  margin-left: 50px;
+    
+}
